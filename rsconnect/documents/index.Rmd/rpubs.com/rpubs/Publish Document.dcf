@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/173119/f35ffc954d994fa68737a56c14d0cdc7
+url: http://rpubs.com/savirhuitron/173119
+when: 1461197059.59757
